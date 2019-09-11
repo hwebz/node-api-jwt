@@ -15,3 +15,13 @@ For install dependencie
 
 For start dev server on local (Nodejs)
 > npm start
+
+## Routes
+Register
+> /api/user/register
+
+Login
+> /api/user/login
+
+Posts
+> /api/posts
